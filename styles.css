@@ -56,7 +56,7 @@ main div {
     height: 20dvh;
     border-radius: 100%;
     margin: auto;
-    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 
 .medium img {
@@ -64,7 +64,7 @@ main div {
     height: 30dvh;
     border-radius: 100%;
     margin: auto;
-    margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 
 .large img {
@@ -80,6 +80,7 @@ main div {
     color: rgb(216, 147, 9);
 }
 ul {
+    margin-top: auto;
     color: beige;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
