@@ -5,6 +5,8 @@
     display:grid;
     grid-template-rows: auto 1fr auto;
     border: 6px double rgb(220, 113, 19);
+    border-top: none;
+    border-bottom: none;
 }
 
 footer, header {
